@@ -18,7 +18,7 @@ const partySchema = new Schema ({
             type: Number,
             require: true,
         },
-        Image: {
+        image: {
             type: String,
             require: true,
         },
